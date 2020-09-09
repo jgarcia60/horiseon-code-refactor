@@ -6,7 +6,7 @@ This project took a fully functional webpage of Horiseon Social Solution Service
 
 This project helped solidify knowledge of CSS and html code, and utilized real-world applications of web-development. 
 
-This project uses HTML5 semantic elements in place of generic div elements and consolidates repetetive code blocks of CSS into single code blocks. Some of the code optimizations included adding alt tags for images, removing unused IDs, adding a page title, and adding comments.
+This project uses HTML5 semantic elements in place of generic div elements and consolidates repetetive code blocks of CSS into single, organized code blocks. Some of the code optimizations included adding alt tags for images, removing unused IDs, adding a page title, and adding comments. This project also attempts Git version control best practices.
 
 
 ## Installation
