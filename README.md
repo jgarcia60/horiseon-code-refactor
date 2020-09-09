@@ -22,10 +22,6 @@ To install the project files, you can clone the "horiseon-code-refactor" reposit
 
 You may use this code as a template for semantic elements, or a template for a webpage of your own. The CSS file or it's individual classes can be used for styling templates in other applications. 
 
-This is what the webpage should look like C:\Users\Jonathan\gt-pt\homework\horiseon-code-refactor\Homework-1-Screenshot.jpg
-
-
-
 
 ## Credits
 
@@ -35,7 +31,7 @@ The initial HTML and CSS files were provided by Trilogy Education Services, a 2U
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2020] [Jonathan Garcia]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
