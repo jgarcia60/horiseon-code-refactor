@@ -22,6 +22,8 @@ To install the project files, you can clone the "horiseon-code-refactor" reposit
 
 You may use this code as a template for semantic elements, or a template for a webpage of your own. The CSS file or it's individual classes can be used for styling templates in other applications. 
 
+This is what it looks like:
+![screenshot](./assets/images/Homework-1-Screenshot.jpg)
 
 ## Credits
 
