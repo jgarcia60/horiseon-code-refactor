@@ -6,16 +6,26 @@ This project took a fully functional webpage of Horiseon Social Solution Service
 
 This project helped solidify knowledge of CSS and html code, and utilized real-world applications of web-development. 
 
-This project uses HTML5 semantic elements in place of generic div elements and consolidates repetetive code blocks of CSS into single, organized code blocks. Some of the code optimizations included adding alt tags for images, removing unused IDs, adding a page title, and adding comments. This project also attempts Git version control best practices.
+This project uses HTML5 semantic elements in place of generic div elements and consolidates repetetive code blocks of CSS into single, organized code blocks. Some of the code optimizations included adding alt tags for images, removing unused IDs, adding a page title, and adding comments. This project also attempts Git version control best practices.git 
 
 
 ## Installation
 
-to install the project files, you can copy the "horiseon-code-refactor" repository which contains the necessary images, css, and html files. 
+Here is the link to the webpage:
+
+https://jgarcia60.github.io/horiseon-code-refactor/ 
+
+To install the project files, you can clone the "horiseon-code-refactor" repository which contains the necessary images, css, and html files at https://github.com/jgarcia60/horiseon-code-refactor by clicking the green drop down "Code" and cloning the repo with an SSH key.  
+
 
 ## Usage
 
-You may use this code as a template for semantic elements, or a template for a webpage of your own. The CSS file or it's individual classes can be used for styling templates in other applications.
+You may use this code as a template for semantic elements, or a template for a webpage of your own. The CSS file or it's individual classes can be used for styling templates in other applications. 
+
+This is what the webpage should look like C:\Users\Jonathan\gt-pt\homework\horiseon-code-refactor\Homework-1-Screenshot.jpg
+
+
+
 
 ## Credits
 
